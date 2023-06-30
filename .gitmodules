@@ -1,0 +1,4 @@
+[submodule "salt-feedstock"]
+	path = salt-feedstock
+	url = https://github.com/AnacondaRecipes/salt-feedstock
+	branch = master
