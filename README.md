@@ -5,4 +5,4 @@ The aggregate-deprecated repository is roughly similar to the concept of the ``a
 
 For details on how to move feedstock from/to this repository please read details provided on aggregate repository.
 
-Please look at deprecated.csv file for information.
+Please look at [deprecated.csv](deprecated.csv) file for information.
