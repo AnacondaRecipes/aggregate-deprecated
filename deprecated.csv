@@ -13,3 +13,4 @@ backports.shutil_which, 3.5.2, 2023-07-06, "Deprecated library for older Python 
 backports.tempfile, 1.0, 2023-07-06, "Deprecated library for older Python versions"
 backports.weakref, 1.0.post1, 2023-07-06, "Deprecated library for older Python versions"
 backports_abc, 0.5, 2023-07-06, "Deprecated library for older Python versions"
+airflow, 2.4.3, 2023-08-30, "Deprecated due to small d/l count. There are official Docker images that are supported."
