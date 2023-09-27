@@ -14,3 +14,5 @@ backports.tempfile, backports.tempfile-feedstock, 1.0, 2023-07-06, "Deprecated l
 backports.weakref, backports.weakref-feedstock, 1.0.post1, 2023-07-06, "Deprecated library for older Python versions"
 backports_abc, backports_abc-feedstock, 0.5, 2023-07-06, "Deprecated library for older Python versions"
 airflow, airflow-feedstock, 2.4.3, 2023-08-30, "Deprecated due to small d/l count. There are official Docker images that are supported."
+, pytorch-cpu, 1.3.1, 2023-09-27, "This was an old feedstock that is no longer in use.  It was moved to [old_root_feedstocks](old_root_feedstocks/pytorch_cpu) for archival."
+, pytorch-gpu, 1.3.1, 2023-09-27, "This was an old feedstock that is no longer in use.  It was moved to [old_root_feedstocks](old_root_feedstocks/pytorch_gpu) for archival."
