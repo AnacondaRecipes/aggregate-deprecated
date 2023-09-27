@@ -23,10 +23,7 @@ How to do add to aggregate-deprecated:
 cd aggregate-deprecated
 git pull
 git checkout -b deprecations/2023-06-29
-<your preferred text editing tool> deprecated.csv
-# The git submodule isn't necessary at this point but can be done.
-git submodule add -b master https://github.com/AnacondaRecipes/odo-feedstock
-git push
+<your preferred text editing tool for documenting package/feedstock, date and reason> deprecated.csv
 ```
 
 How to remove from aggregate:
