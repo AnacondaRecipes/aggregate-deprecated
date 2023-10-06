@@ -1,3 +1,4 @@
+package,feedstock,link,last_version,date,reason
 capturer,capturer-feedstock,https://github.com/AnacondaRecipes/capturer-feedstock,,,"Still seems to be active. Though hasn't been touched since 2020. https://pypi.org/project/capturer/"
 gridmap,gridmap-feedstock,https://github.com/AnacondaRecipes/gridmap-feedstock,0.14.0,2023-10-05,"Looks like it still is maintained allbeit very slowly."
 infinity,infinity-feedstock,https://github.com/AnacondaRecipes/infinity-feedstock,1.5,2023-10-05,"Hasn't been update since 2020.  Seems like numpy has a solution."
