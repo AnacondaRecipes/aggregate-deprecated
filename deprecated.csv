@@ -49,3 +49,153 @@ teradata,teradata-feedstock,https://github.com/AnacondaRecipes/teradata-feedstoc
 toro,toro-feedstock,https://github.com/AnacondaRecipes/toro-feedstock,1.0.1,2023-10-06,"Deprecated. Features have been merged into Tornado."
 unicodecsv,unicodecsv-feedstock,https://github.com/AnacondaRecipes/unicodecsv-feedstock,0.14.1,2023-10-06,"Python 2 package."
 pygpu,pygpu-feedstock,https://github.com/AnacondaRecipes/pygpu-feedstock,0.7.6,2023-10-06,"Not compatible with recent numpy versions."
+airflow-with-azure-mgmt-containerinstance,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-azure_blob_storage,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-azure_cosmos,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-cassandra,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-celery,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-cloudant,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-crypto,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-databricks,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-datadog,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-docker,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-druid,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-elasticsearch,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-emr,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-hdfs,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-jdbc,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-jenkins,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-jira,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-kubernetes,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-mongo,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-mssql,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-mysql,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-postgres,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-qds,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-redis,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-salesforce,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-samba,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-sendgrid,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-slack,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-ssh,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-vertica,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-webhdfs,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+airflow-with-winrm,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+_tflow_1100_select,
+_tflow_180_select,
+_tflow_190_select,
+apr,
+argon2_cffi,
+blas-devel,
+cachecontrol-with-filecache,
+cachecontrol-with-redis,
+casuarius,
+cdecimal,
+cheetah,
+clang-12,
+clang-dbg_osx-64,
+clangxx-dbg_osx-64,
+cloog,
+cmake_setuptools,
+compiler-rt_win-32,
+contextvars,
+daal,
+daal-devel,
+daal-include,
+daal-static,
+dis3,
+dlpack,
+dpl-include,
+file,
+functools32,
+futures,
+futures-compat,
+ghc,
+go-cgo,
+go-cgo_linux-64,
+go-cgo_osx-64,
+go-cgo_win-64,
+go-core,
+go-nocgo,
+go-nocgo_linux-64,
+go-nocgo_osx-64,
+go-nocgo_win-64,
+go_linux-32,
+go_linux-64,
+go_linux-ppc64le,
+go_osx-64,
+go_win-32,
+go_win-64,
+gtk3,
+h2o,
+hstspreload,
+intel-fortran_win-32,
+ipaddress,
+jupyterhub-base,
+jupyterhub-singleuser,
+krb5-static,
+lapack,
+libblas,
+libcblas,
+libclang-cpp10,
+libclang-cpp12,
+libgfortran4,
+liblapack,
+liblapacke,
+libllvm10,
+libllvm11,
+libllvm12,
+libllvm9,
+libmlir12,
+libnetcdf,
+libopenssl-static,
+libssh2-static,
+libtmglib,
+llvm-lto-tapi,
+lua,
+lua-resty-http,
+luajit,
+mercurial,
+modin-omnisci,
+mtq,
+mxnet-gpu_mkl,
+mxnet-gpu_openblas,
+mxnet-mkl,
+mysql-python,
+numpy-devel,
+omniscidb,
+opencv-suite,
+pickle5,
+pixman,
+poppler-cpp,
+proj4,
+py-xgboost-gpu,
+pynio,
+pyomniscidb,
+pyphen,
+python-ntlm,
+python-openid,
+rust-nightly,
+selectors2,
+snakebite,
+soappy,
+ssl_match_hostname,
+statistics,
+subprocess32,
+tensorflow-gpu-base,
+tensorflow-tensorboard,
+trollius,
+vs2008_runtime,
+vs2008_win-32,
+vs2008_win-64,
+vs2013_runtime,
+vs2015_win-32,
+vs2015_win-64,
+vs2017_win-32,
+vs2019_win-32,
+wsgiref,
+wstools,
+x507,
+xz-static,
+zipfile36,
+zstd-static,
