@@ -24,8 +24,6 @@ _tflow_190_select
 apr
 argon2_cffi
 blas-devel
-cachecontrol-with-filecache
-cachecontrol-with-redis
 casuarius
 cdecimal
 cheetah
@@ -34,7 +32,6 @@ clang-dbg_osx-64
 clangxx-dbg_osx-64
 cloog
 cmake_setuptools
-compiler-rt_win-32
 contextvars
 daal
 daal-devel
@@ -44,7 +41,6 @@ dis3
 dlpack
 dpl-include
 file
-functools32
 futures
 futures-compat
 ghc
@@ -66,7 +62,6 @@ go_win-64
 gtk3
 h2o
 hstspreload
-intel-fortran_win-32
 ipaddress
 jupyterhub-base
 jupyterhub-singleuser
@@ -85,7 +80,6 @@ libllvm12
 libllvm9
 libmlir12
 libnetcdf
-libopenssl-static
 libssh2-static
 libtmglib
 llvm-lto-tapi
@@ -103,8 +97,6 @@ numpy-devel
 omniscidb
 opencv-suite
 pickle5
-pixman
-poppler-cpp
 proj4
 py-xgboost-gpu
 pynio
@@ -122,17 +114,7 @@ subprocess32
 tensorflow-gpu-base
 tensorflow-tensorboard
 trollius
-vs2008_runtime
-vs2008_win-32
-vs2008_win-64
-vs2013_runtime
-vs2015_win-32
-vs2015_win-64
-vs2017_win-32
-vs2019_win-32
 wsgiref
 wstools
-x507
 xz-static
-zipfile36
 zstd-static
