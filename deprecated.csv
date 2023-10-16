@@ -50,7 +50,7 @@ toro,toro-feedstock,https://github.com/AnacondaRecipes/toro-feedstock,1.0.1,2023
 unicodecsv,unicodecsv-feedstock,https://github.com/AnacondaRecipes/unicodecsv-feedstock,0.14.1,2023-10-06,"Python 2 package."
 pygpu,pygpu-feedstock,https://github.com/AnacondaRecipes/pygpu-feedstock,0.7.6,2023-10-06,"Not compatible with recent numpy versions."
 win_unicode_console,win_unicode_console-feedstock,https://github.com/AnacondaRecipes/win_unicode_console-feedstock,2023-10-16,"no needed as of python 3.6"
-wincertstore,wincertstore-feedstock,https://github.com/AnacondaRecipes/wincertstore-feedstock,2023-10-16,"no new release, not required for newer python""
+wincertstore,wincertstore-feedstock,https://github.com/AnacondaRecipes/wincertstore-feedstock,2023-10-16,"no new release, not required for newer python"
 word2vec,word2vec-feedstock,https://github.com/AnacondaRecipes/word2vec-feedstock,2023-10-16,"archived by owner"
 xlwt,xlwt-feedstock,https://github.com/AnacondaRecipes/xlwt-feedstock,2023-10-16,"archived by owner"
 xmlrpc2,xmlrpc2-feedstock,https://github.com/AnacondaRecipes/xmlrpc2-feedstock,2023-10-16,"archived by owner"
