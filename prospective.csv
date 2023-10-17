@@ -41,8 +41,6 @@ dis3
 dlpack
 dpl-include
 file
-futures
-futures-compat
 ghc
 go-cgo
 go-cgo_linux-64
@@ -109,8 +107,6 @@ selectors2
 snakebite
 soappy
 ssl_match_hostname
-statistics
-subprocess32
 tensorflow-gpu-base
 tensorflow-tensorboard
 trollius
