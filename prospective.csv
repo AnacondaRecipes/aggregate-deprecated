@@ -18,99 +18,99 @@ simplegeneric,simplegeneric-feedstock,https://github.com/AnacondaRecipes/simpleg
 vcversioner,vcversioner-feedstock,https://github.com/AnacondaRecipes/vcversioner-feedstock,2.16.0.0,2023-10-06,"People use setuptools_scm nowadays."
 repoze.lru,repoze.lru-feedstock,https://github.com/AnacondaRecipes/repoze.lru-feedstock,0.7,2023-10-06,"A dependency of routes."
 routes,routes-feedstock,https://github.com/AnacondaRecipes/routes-feedstock,2.5.1,2023-10-06,"Used to be a dependency of cherrypy."
-_tflow_1100_select
-_tflow_180_select
-_tflow_190_select
-apr
-argon2_cffi
-blas-devel
-casuarius
-cdecimal
-cheetah
-clang-12
-clang-dbg_osx-64
-clangxx-dbg_osx-64
-cloog
-cmake_setuptools
-contextvars
-daal
-daal-devel
-daal-include
-daal-static
-dis3
-dlpack
-dpl-include
-file
-ghc
-go-cgo
-go-cgo_linux-64
-go-cgo_osx-64
-go-cgo_win-64
-go-core
-go-nocgo
-go-nocgo_linux-64
-go-nocgo_osx-64
-go-nocgo_win-64
-go_linux-32
-go_linux-64
-go_linux-ppc64le
-go_osx-64
-go_win-32
-go_win-64
-gtk3
-h2o
-hstspreload
-ipaddress
-jupyterhub-base
-jupyterhub-singleuser
-krb5-static
-lapack
-libblas
-libcblas
-libclang-cpp10
-libclang-cpp12
-libgfortran4
-liblapack
-liblapacke
-libllvm10
-libllvm11
-libllvm12
-libllvm9
-libmlir12
-libnetcdf
-libssh2-static
-libtmglib
-llvm-lto-tapi
-lua
-lua-resty-http
-luajit
-mercurial
-modin-omnisci
-mtq
-mxnet-gpu_mkl
-mxnet-gpu_openblas
-mxnet-mkl
-mysql-python
-numpy-devel
-omniscidb
-opencv-suite
-pickle5
-proj4
-py-xgboost-gpu
-pynio
-pyomniscidb
-pyphen
-python-ntlm
-python-openid
-rust-nightly
-selectors2
-snakebite
-soappy
-ssl_match_hostname
-tensorflow-gpu-base
-tensorflow-tensorboard
-trollius
-wsgiref
-wstools
-xz-static
-zstd-static
+_tflow_1100_select,,,,,"No package on aggregate found."
+_tflow_180_select,,,,,"No package on aggregate found."
+_tflow_190_select,,,,,"No package on aggregate found."
+apr,,,,,"No package on aggregate found."
+argon2_cffi,,,,,"No package on aggregate found."
+blas-devel,,,,,"No package on aggregate found."
+casuarius,,,,,"No package on aggregate found."
+cdecimal,,,,,"No package on aggregate found."
+cheetah,,,,,"No package on aggregate found."
+clang-12,,,,,"No package on aggregate found."
+clang-dbg_osx-64,,,,,"No package on aggregate found."
+clangxx-dbg_osx-64,,,,,"No package on aggregate found."
+cloog,,,,,"No package on aggregate found."
+cmake_setuptools,,,,,"No package on aggregate found."
+contextvars,,,,,"No package on aggregate found."
+daal,,,,,"No package on aggregate found."
+daal-devel,,,,,"No package on aggregate found."
+daal-include,,,,,"No package on aggregate found."
+daal-static,,,,,"No package on aggregate found."
+dis3,,,,,"No package on aggregate found."
+dlpack,,,,,"No package on aggregate found."
+dpl-include,,,,,"No package on aggregate found."
+file,,,,,"No package on aggregate found."
+ghc,,,,,"No package on aggregate found."
+go-cgo,,,,,"No package on aggregate found."
+go-cgo_linux-64,,,,,"No package on aggregate found."
+go-cgo_osx-64,,,,,"No package on aggregate found."
+go-cgo_win-64,,,,,"No package on aggregate found."
+go-core,,,,,"No package on aggregate found."
+go-nocgo,,,,,"No package on aggregate found."
+go-nocgo_linux-64,,,,,"No package on aggregate found."
+go-nocgo_osx-64,,,,,"No package on aggregate found."
+go-nocgo_win-64,,,,,"No package on aggregate found."
+go_linux-32,,,,,"No package on aggregate found."
+go_linux-64,,,,,"No package on aggregate found."
+go_linux-ppc64le,,,,,"No package on aggregate found."
+go_osx-64,,,,,"No package on aggregate found."
+go_win-32,,,,,"No package on aggregate found."
+go_win-64,,,,,"No package on aggregate found."
+gtk3,,,,,"No package on aggregate found."
+h2o,,,,,"No package on aggregate found."
+hstspreload,,,,,"No package on aggregate found."
+ipaddress,,,,,"No package on aggregate found."
+jupyterhub-base,,,,,"No package on aggregate found."
+jupyterhub-singleuser,,,,,"No package on aggregate found."
+krb5-static,,,,,"No package on aggregate found."
+lapack,,,,,"No package on aggregate found."
+libblas,,,,,"No package on aggregate found."
+libcblas,,,,,"No package on aggregate found."
+libclang-cpp10,,,,,"No package on aggregate found."
+libclang-cpp12,,,,,"No package on aggregate found."
+libgfortran4,,,,,"No package on aggregate found."
+liblapack,,,,,"No package on aggregate found."
+liblapacke,,,,,"No package on aggregate found."
+libllvm10,,,,,"No package on aggregate found."
+libllvm11,,,,,"No package on aggregate found."
+libllvm12,,,,,"No package on aggregate found."
+libllvm9,,,,,"No package on aggregate found."
+libmlir12,,,,,"No package on aggregate found."
+libnetcdf,,,,,"No package on aggregate found."
+libssh2-static,,,,,"No package on aggregate found."
+libtmglib,,,,,"No package on aggregate found."
+llvm-lto-tapi,,,,,"No package on aggregate found."
+lua,,,,,"No package on aggregate found."
+lua-resty-http,,,,,"No package on aggregate found."
+luajit,,,,,"No package on aggregate found."
+mercurial,,,,,"No package on aggregate found."
+modin-omnisci,,,,,"No package on aggregate found."
+mtq,,,,,"No package on aggregate found."
+mxnet-gpu_mkl,,,,,"No package on aggregate found."
+mxnet-gpu_openblas,,,,,"No package on aggregate found."
+mxnet-mkl,,,,,"No package on aggregate found."
+mysql-python,,,,,"No package on aggregate found."
+numpy-devel,,,,,"No package on aggregate found."
+omniscidb,,,,,"No package on aggregate found."
+opencv-suite,,,,,"No package on aggregate found."
+pickle5,,,,,"No package on aggregate found."
+proj4,,,,,"No package on aggregate found."
+py-xgboost-gpu,,,,,"No package on aggregate found."
+pynio,,,,,"No package on aggregate found."
+pyomniscidb,,,,,"No package on aggregate found."
+pyphen,,,,,"No package on aggregate found."
+python-ntlm,,,,,"No package on aggregate found."
+python-openid,,,,,"No package on aggregate found."
+rust-nightly,,,,,"No package on aggregate found."
+selectors2,,,,,"No package on aggregate found."
+snakebite,,,,,"No package on aggregate found."
+soappy,,,,,"No package on aggregate found."
+ssl_match_hostname,,,,,"No package on aggregate found."
+tensorflow-gpu-base,,,,,"No package on aggregate found."
+tensorflow-tensorboard,,,,,"No package on aggregate found."
+trollius,,,,,"No package on aggregate found."
+wsgiref,,,,,"No package on aggregate found."
+wstools,,,,,"No package on aggregate found."
+xz-static,,,,,"No package on aggregate found."
+zstd-static,,,,,"No package on aggregate found."
