@@ -56,6 +56,7 @@ gymnasium-notices,gymnasium-notices-feedstock,https://github.com/AnacondaRecipes
 ipaddr,ipaddr-feedstock,https://github.com/AnacondaRecipes/ipaddr-feedstock,2.2.0,2023-10-05,"Backport for Python 2 and functionality is in Python 3. https://github.com/google/ipaddr-py"
 jsondate,jsondate-feedstock,https://github.com/AnacondaRecipes/jsondate-feedstock,0.1.2,2023-10-05,"Hasn't been update since 2012.  Others have come like jsondate3."
 lancet,lancet-feedstock,https://github.com/AnacondaRecipes/lancet-feedstock,0.9.0,2023-10-05,"Hasn't been updated since 2015. Also, there seems to be a naming conflict with pypi on this one. (pypi points to this one: https://github.com/divio/lancet)"
+,libmambapy-feedstock,https://github.com/AnacondaRecipes/libmambapy-feedstock,1.0.0,2023-10-31,"Repo renamed to mamba-feedstock"
 ,libpq-feedstock,https://github.com/AnacondaRecipes/libpq-feedstock,9.6.6,2023-07-06,"libpq is now built as part of postgresql-feedstock"
 linecache2,linecache2-feedstock,https://github.com/AnacondaRecipes/linecache2-feedstock,1.0.0,2023-10-05,"Backport of the linecache module for Python 2"
 lockfile,lockfile-feedstock,https://github.com/AnacondaRecipes/lockfile-feedstock,0.12.2,2023-10-05,"Deprecated by upstream."
