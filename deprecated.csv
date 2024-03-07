@@ -57,6 +57,7 @@ colour,colour-feedstock,https://github.com/AnacondaRecipes/colour-feedstock,0.1.
 cvxcanon,cvxcanon-feedstock,https://github.com/AnacondaRecipes/cvxcanon-feedstock,0.1.1,2023-10-05,"Convex optimization library.  Hasn't been updated since 2020."
 flake8-polyfill,flake8-polyfill-feedstock,https://github.com/AnacondaRecipes/flake8-polyfill-feedstock,1.0.2,2023-10-05,"Only supports flake8 version 2 and 3.  Hasn't been updated since 2017."
 funcsigs,funcsigs-feedstock,https://github.com/AnacondaRecipes/funcsigs-feedstock/,1.0.2,2023-10-05,"Hasn't been updated since 2016."
+functools_lru_cache,functools_lru_cache-feedstock,https://github.com/AnacondaRecipes/functools_lru_cache-feedstock,1.5,2024-03-07,"A wrapper around backports.functools_lru_cache which is deprecated."
 ,grpcio-feedstock,https://github.com/AnacondaRecipes/grpcio-feedstock,,2023-10-17,"Superseded by https://github.com/AnacondaRecipes/grpc-cpp-feedstock"
 gymnasium-notices,gymnasium-notices-feedstock,https://github.com/AnacondaRecipes/gymnasium-notices-feedstock,0.0.1,2023-07-06,"Replaced by farama-notifications. Upstream renaming."
 ipaddr,ipaddr-feedstock,https://github.com/AnacondaRecipes/ipaddr-feedstock,2.2.0,2023-10-05,"Backport for Python 2 and functionality is in Python 3. https://github.com/google/ipaddr-py"
