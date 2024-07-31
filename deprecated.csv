@@ -119,5 +119,5 @@ word2vec,word2vec-feedstock,https://github.com/AnacondaRecipes/word2vec-feedstoc
 xlwt,xlwt-feedstock,https://github.com/AnacondaRecipes/xlwt-feedstock,1.3.0,2023-10-16,"archived by owner"
 xmlrpc2,xmlrpc2-feedstock,https://github.com/AnacondaRecipes/xmlrpc2-feedstock,0.3.1,2023-10-16,"archived by owner"
 zipfile36,zipfile36-feedstock,https://github.com/AnacondaRecipes/zipfile36-feedstock,0.1.3,2023-10-17,"Backport of zipfile from Python 3.6 for Pythons <= 3.6 which are no longer supported."
-lighttpd,lighttpd-feedstock,https://github.com/AnacondaRecipes/lighttpd-feedstock,1.4.51,"This is an HTTP server imilar to apache-httpd. We don't want to package it anymore."
-mysql-connector-c,mysql-connector-c-feedstock,https://github.com/AnacondaRecipes/mysql-connector-c-feedstock,6.1.11,"Deprecated upstream. Replaced by MySQL C++ connector: https://dev.mysql.com/doc/connector-cpp/8.0/en/connector-cpp-introduction.html"
+lighttpd,lighttpd-feedstock,https://github.com/AnacondaRecipes/lighttpd-feedstock,1.4.51,2023-06-09,"This is an HTTP server imilar to apache-httpd. We don't want to package it anymore."
+mysql-connector-c,mysql-connector-c-feedstock,https://github.com/AnacondaRecipes/mysql-connector-c-feedstock,6.1.11,2023-06-09,"Deprecated upstream. Replaced by MySQL C++ connector: https://dev.mysql.com/doc/connector-cpp/8.0/en/connector-cpp-introduction.html"
