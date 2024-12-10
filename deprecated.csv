@@ -83,6 +83,7 @@ conda-project,conda-project-feedstock,https://github.com/AnacondaRecipes/conda-p
 configupdater,configupdater-feedstock,https://github.com/AnacondaRecipes/configupdater-feedstock,3.1.1,2024-09-16,"Upstream active. Put on inactive status for now"
 connexion,connexion-feedstock,https://github.com/AnacondaRecipes/connexion-feedstock,2.14.0,2024-09-16,"Put on inactive status for now"
 cvxcanon,cvxcanon-feedstock,https://github.com/AnacondaRecipes/cvxcanon-feedstock,0.1.1,2023-10-05,"Convex optimization library.  Hasn't been updated since 2020."
+devil,devil-feedstock,https://github.com/AnacondaRecipes/devil-feedstock,1.8.0,2024-12-10,"A cross-platform image library.  It hasn't been updated since 2017."
 flake8-polyfill,flake8-polyfill-feedstock,https://github.com/AnacondaRecipes/flake8-polyfill-feedstock,1.0.2,2023-10-05,"Only supports flake8 version 2 and 3.  Hasn't been updated since 2017."
 funcsigs,funcsigs-feedstock,https://github.com/AnacondaRecipes/funcsigs-feedstock/,1.0.2,2023-10-05,"Hasn't been updated since 2016."
 functools_lru_cache,functools_lru_cache-feedstock,https://github.com/AnacondaRecipes/functools_lru_cache-feedstock,1.5,2024-03-07,"A wrapper around backports.functools_lru_cache which is deprecated."
