@@ -51,6 +51,7 @@ airflow-with-vertica,airflow-feedstock,https://github.com/AnacondaRecipes/airflo
 airflow-with-virtualenv,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
 airflow-with-webhdfs,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
 airflow-with-winrm,airflow-feedstock,https://github.com/AnacondaRecipes/airflow-feedstock,2.4.3,2023-08-30,"Deprecated due to small d/l count. There are official Docker images that are supported."
+aredis,aredis-feedstock,https://github.com/AnacondaRecipes/aredis-feedstock,1.1.8,2025-01-02,No new release since 2020. Use redis-py instead.
 atlasclient,atlasclient-feedstock,https://github.com/AnacondaRecipes/atlasclient-feedstock,0.1.7,2024-12-16,"Upstream Deprecated.  Hasn't been updated for 6 years."
 apache-airflow-providers-apache-hdfs,apache-airflow-providers-apache-hdfs-feedstock,https://github.com/AnacondaRecipes/apache-airflow-providers-apache-hdfs-feedstock,3.0.1,2024-01-17,"Deprecating due to airflow deprecation."
 apache-airflow-providers-common-sql, apache-airflow-providers-common-sql-feedstock,https://github.com/AnacondaRecipes/apache-airflow-providers-common-sql-feedstock,1.2.0,2024-01-17,"Deprecating due to airflow deprecation."
@@ -69,6 +70,7 @@ backports.shutil_which,backports.shutil_which-feedstock,https://github.com/Anaco
 backports.tempfile,backports.tempfile-feedstock,https://github.com/AnacondaRecipes/backports.tempfile-feedstock,1.0,2023-07-06,"Deprecated library for older Python versions"
 backports.weakref,backports.weakref-feedstock,https://github.com/AnacondaRecipes/backports.weakref-feedstock,1.0.post1,2023-07-06,"Deprecated library for older Python versions"
 bandersnatch,bandersnatch-feedstock,https://github.com/AnacondaRecipes/bandersnatch-feedstock,3.6.0,2024-09-16,"Put on inactive status for now"
+bcj-cffi,bcj-cffi-feedstock,https://github.com/AnacondaRecipes/bcj-cffi-feedstock,0.5.1,2025-01-02,"Archived on Oct 16, 2021. https://github.com/miurahr/bcj-cffi"
 bkcharts,bkcharts-feedstock,https://github.com/AnacondaRecipes/bkcharts-feedstock,0.2,2023-10-05,"Deprecated by upstream in May 2018. https://github.com/bokeh/bkcharts"
 boto,boto-feedstock,https://github.com/AnacondaRecipes/boto-feedstock,2.29.0,2023-10-05,"Replaced by boto3. https://github.com/boto/boto/"
 brotlipy,brotlipy-feedstock,https://github.com/AnacondaRecipes/brotlipy-feedstock,0.7.0,2023-10-05,"Replaced by brotlicffi. See notes on how they want to use this. https://github.com/python-hyper/brotlicffi."
@@ -85,6 +87,7 @@ conda-project,conda-project-feedstock,https://github.com/AnacondaRecipes/conda-p
 configupdater,configupdater-feedstock,https://github.com/AnacondaRecipes/configupdater-feedstock,3.1.1,2024-09-16,"Upstream active. Put on inactive status for now"
 connexion,connexion-feedstock,https://github.com/AnacondaRecipes/connexion-feedstock,2.14.0,2024-09-16,"Put on inactive status for now"
 cvxcanon,cvxcanon-feedstock,https://github.com/AnacondaRecipes/cvxcanon-feedstock,0.1.1,2023-10-05,"Convex optimization library.  Hasn't been updated since 2020."
+cx_oracle,cx_oracle-feedstock,https://github.com/AnacondaRecipes/cx_oracle-feedstock,8.3.0,2025-01-02,cx_Oracle has a major new release under a new name and homepage python-oracledb.
 devil,devil-feedstock,https://github.com/AnacondaRecipes/devil-feedstock,1.8.0,2024-12-10,"A cross-platform image library.  It hasn't been updated since 2017."
 flake8-polyfill,flake8-polyfill-feedstock,https://github.com/AnacondaRecipes/flake8-polyfill-feedstock,1.0.2,2023-10-05,"Only supports flake8 version 2 and 3.  Hasn't been updated since 2017."
 funcsigs,funcsigs-feedstock,https://github.com/AnacondaRecipes/funcsigs-feedstock/,1.0.2,2023-10-05,"Hasn't been updated since 2016."
@@ -105,6 +108,7 @@ omniscidb,omniscidb-feedstock,https://github.com/AnacondaRecipes/omniscidb-feeds
 omniscidbe,omniscidb-feedstock,https://github.com/AnacondaRecipes/omniscidb-feedstock,5.10.1,2024-12-16,"Project name change."
 omniscidb-common,omniscidb-feedstock,https://github.com/AnacondaRecipes/omniscidb-feedstock,5.10.1,2024-12-16,"Project name change."
 pyomniscidbe,omniscidb-feedstock,https://github.com/AnacondaRecipes/omniscidb-feedstock,5.10.1,2024-12-16,"Project name change."
+pdm,pdm-feedstock,https://github.com/AnacondaRecipes/pdm-feedstock,2.2.1,2025-01-06,pdm-backend is used instead of pdm to build conda packages.  
 pep8,pep8-feedstock,https://github.com/AnacondaRecipes/pep8-feedstock,1.7.1,2023-10-06,"Replaced by pycodestyle"
 pygpu,pygpu-feedstock,https://github.com/AnacondaRecipes/pygpu-feedstock,0.7.6,2023-10-06,"Not compatible with recent numpy versions."
 pyhive,pyhive-feedstock,https://github.com/AnacondaRecipes/pyhive-feedstock,0.6.1,2023-10-06,"Project is currently unsupported"
@@ -138,6 +142,7 @@ poppler-cpp,poppler-feedstock,https://github.com/AnacondaRecipes/poppler-feedsto
 priority,priority-feedstock,https://github.com/AnacondaRecipes/priority-feedstock,1.3.0,2023-10-16,"no new version since 2021, our version dates from 2017"
 statistics,statistics-feedstock,https://github.com/AnacondaRecipes/statistics-feedstock,1.0.3.5,2023-10-17,"A port of Python 3.4 statistics module to Python 2.*. Python 2 is no longer supported."
 subprocess32,subprocess32-feedstock,https://github.com/AnacondaRecipes/subprocess32-feedstock,3.5.4,2023-10-17,"A backport of the subprocess module from Python 3.2/3.3 for use on 2.x. Python 2 is no longer supported."
+unearth,unearth-feedstock,https://github.com/AnacondaRecipes/unearth-feedstock,0.6.2,2024-01-06,"A dependency for pdm, which we stop building."
 venusian,venusian-feedstock,https://github.com/AnacondaRecipes/venusian-feedstock,1.2.0,2023-10-16,"no new version since 2019, ours is not the latest, no current package using it"
 vs2008_runtime,vs2008,old_root_feedstocks/vs2008,9.00.30729.1,2023-09-28,"Deprecated MSVC tools."
 vs2008_win-32,vs2008,old_root_feedstocks/vs2008,9.00.30729.1,2023-09-28,"Deprecated MSVC tools."
